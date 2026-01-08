@@ -1,0 +1,14 @@
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\bin\Debug\net8.0\ArraysProgramSolving.exe
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\bin\Debug\net8.0\ArraysProgramSolving.deps.json
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\bin\Debug\net8.0\ArraysProgramSolving.runtimeconfig.json
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\bin\Debug\net8.0\ArraysProgramSolving.dll
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\bin\Debug\net8.0\ArraysProgramSolving.pdb
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.AssemblyInfoInputs.cache
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.AssemblyInfo.cs
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.csproj.CoreCompileInputs.cache
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.dll
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\refint\ArraysProgramSolving.dll
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.pdb
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ArraysProgramSolving.genruntimeconfig.cache
+D:\Angular & ASP.NET\API\ArraysProgramSolving\ArraysProgramSolving\obj\Debug\net8.0\ref\ArraysProgramSolving.dll
