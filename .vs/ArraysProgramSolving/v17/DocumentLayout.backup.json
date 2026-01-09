@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\arraysprogramsolving.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\arraysprogramsolving.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\arrayissortedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\arrayissortedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\arraysprogramsolving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\arraysprogramsolving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\secondsmallestandsecondelargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\secondsmallestandsecondelargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|d:\\angular \u0026 asp.net\\api\\arraysprogramsolving\\arraysprogramsolving\\kidswithgretestnumbersofcandies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE7820-7278-477F-AB71-9194B92DF859}|ArraysProgramSolving\\ArraysProgramSolving.csproj|solutionrelative:arraysprogramsolving\\kidswithgretestnumbersofcandies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,41 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SecondSmallestAndSecondeLargest.cs",
-              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
-              "RelativeDocumentMoniker": "ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
-              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
-              "RelativeToolTip": "ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAiwDkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:53:06.239Z",
+              "Title": "ArraysProgramSolving",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "RelativeToolTip": "ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T09:19:26.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\Program.cs",
-              "RelativeDocumentMoniker": "ArraysProgramSolving\\Program.cs",
-              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\Program.cs*",
-              "RelativeToolTip": "ArraysProgramSolving\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RemoveDuplicates.cs",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\RemoveDuplicates.cs",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\RemoveDuplicates.cs",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\RemoveDuplicates.cs",
+              "RelativeToolTip": "ArraysProgramSolving\\RemoveDuplicates.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:52:32.22Z",
+              "WhenOpened": "2026-01-09T09:14:38.079Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayIsSortedOrNot.cs",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArrayIsSortedOrNot.cs",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\ArrayIsSortedOrNot.cs",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArrayIsSortedOrNot.cs",
+              "RelativeToolTip": "ArraysProgramSolving\\ArrayIsSortedOrNot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:20:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArraysProgramSolving.csproj",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "RelativeToolTip": "ArraysProgramSolving\\ArraysProgramSolving.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T17:07:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KidsWithGretestNumbersOfCandies.cs",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\KidsWithGretestNumbersOfCandies.cs",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\KidsWithGretestNumbersOfCandies.cs",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\KidsWithGretestNumbersOfCandies.cs",
+              "RelativeToolTip": "ArraysProgramSolving\\KidsWithGretestNumbersOfCandies.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:01:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondSmallestAndSecondeLargest.cs",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
+              "RelativeToolTip": "ArraysProgramSolving\\SecondSmallestAndSecondeLargest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:53:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysProgramSolving\\Program.cs",
+              "ToolTip": "D:\\Angular \u0026 ASP.NET\\API\\ArraysProgramSolving\\ArraysProgramSolving\\Program.cs",
+              "RelativeToolTip": "ArraysProgramSolving\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:52:32.22Z"
             }
           ]
         }
